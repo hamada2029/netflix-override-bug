@@ -2,7 +2,7 @@
 
 ![2017-11-22 6 34 04](https://user-images.githubusercontent.com/8012459/33097988-2d249188-cf4f-11e7-8e0b-c6feaacfd11d.png)<br>
 ![2017-11-22 6 17 50](https://user-images.githubusercontent.com/8012459/33097340-2a06c63a-cf4d-11e7-80ab-d33d7f225178.png)<br>
-Override button don't work. Uncaught TypeError on Chrome console.<br>
+Override button don't work. Uncaught TypeError on Google Chrome console.<br>
 <br><br>
 ![2017-11-22 6 27 41](https://user-images.githubusercontent.com/8012459/33097727-6de4fe70-cf4e-11e7-8d6f-1920f72bf50c.png)<br>
 Property should return true or false.<br>
