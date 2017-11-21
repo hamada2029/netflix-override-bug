@@ -14,7 +14,7 @@ Download JavaScript file.<br>
 Replace to 'false', and save.<br>
 <br><br>
 ![2017-11-22 6 46 58](https://user-images.githubusercontent.com/8012459/33098510-fd775964-cf50-11e7-89ef-5979289cf035.png)<br>
-Use [Charles](https://www.charlesproxy.com/documentation/tools/map-local/). Map JavaScript file URL to local file.<br>
+Use [Charles](https://www.charlesproxy.com/documentation/tools/map-local/). Map JavaScript file URL to local file. Recording button to off is better.<br>
 <br><br>
 ![2017-11-22 6 54 10](https://user-images.githubusercontent.com/8012459/33098834-09a2e766-cf52-11e7-9147-086e4b103ba1.png)<br>
 Clear Chrome cache, and reload. Override button will be working.<br>
