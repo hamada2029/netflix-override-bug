@@ -1,5 +1,12 @@
 # netflix-override-bug
 
+### Warning!  
+This method is outdated.  
+You should use [netflix-1080p](https://github.com/jangxx/netflix-1080p) or [netflix-1080p-firefox](https://github.com/TheGoddessInari/netflix-1080p-firefox).  
+They are more sophisticated.  
+  
+  
+---
 ![2017-11-22 6 34 04](https://user-images.githubusercontent.com/8012459/33097988-2d249188-cf4f-11e7-8e0b-c6feaacfd11d.png)<br>
 ![2017-11-22 6 17 50](https://user-images.githubusercontent.com/8012459/33097340-2a06c63a-cf4d-11e7-80ab-d33d7f225178.png)<br>
 Override button don't work. Uncaught TypeError on Google Chrome console.<br>
